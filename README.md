@@ -4,7 +4,7 @@
 
 ## 🚀 Lien en production
 
-🔗 [Voir le tracker en ligne](https://syndicate-nexus-tracker.vercel.app)
+🔗 **[syndicate-nexus-tracker.vercel.app](https://syndicate-nexus-tracker.vercel.app)**
 
 ## 📋 Contenu
 
